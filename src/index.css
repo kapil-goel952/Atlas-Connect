@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#main{
+  height: 300px;
+  width: 500px;
+  align-items: center;
+  justify-content: center;
+}
+#btn{
+  background-color:rgb(41, 41, 255);
+  border-radius: 8px;
+  height: 25px;
+  width: 85px;
+  margin-right: 12px;
+  color:white
+}
