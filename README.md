@@ -11,4 +11,4 @@ Currently, two official plugins ar
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation
 
-If you are developing a pduction application, we recing TypeScript withype-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tre
+If you are developing a pduction application, we recing TypeScript withype-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite
